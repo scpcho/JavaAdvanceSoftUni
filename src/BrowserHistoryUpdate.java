@@ -7,11 +7,11 @@ public class BrowserHistoryUpdate {
         ArrayDeque<String> browserHistory = new ArrayDeque<>();
         ArrayDeque<String> forwardHistory = new ArrayDeque<>();
 
-        String command;
+        String cmd;
 
-        while (!"Home".equals(command = scanner.nextLine())) {
+        while (!"Home".equals(cmd = scanner.nextLine())) {
 
-            if (command.equals("back")) {
+            if (cmd.equals("back")) {
                 if (browserHistory.size() < 2) {
                     System.out.println("no previous URLs");
                 } else {
@@ -19,7 +19,7 @@ public class BrowserHistoryUpdate {
                     browserHistory.pop();
                     System.out.println(browserHistory.peek());
                 }
-            } else if (command.equals("forward")) {
+            } else if (cmd.equals("forward")) {
                 if (forwardHistory.size() < 1) {
                     System.out.println("no next URLs");
                 } else {
@@ -27,8 +27,8 @@ public class BrowserHistoryUpdate {
                     browserHistory.push(forwardHistory.pop());
                 }
             } else {
-                System.out.println(command);
-                browserHistory.push(command);
+                System.out.println(cmd);
+                browserHistory.push(cmd);
                 forwardHistory.clear();
             }
         }
