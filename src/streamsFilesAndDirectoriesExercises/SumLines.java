@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class SumLines {
-    private static final String PATH = "C:\\Users\\scp\\IdeaProjects\\JavaAdvance\\src\\streamsFilesAndDirectoriesExercises\\input.txt";
+    private static final String PATH = "C:\\Users\\scp\\IdeaProjects\\JavaAdvance\\src\\streamsFilesAndDirectoriesExercises\\Resource\\input.txt";
 
     public static void main(String[] args) {
         try (BufferedReader reader = new BufferedReader(new FileReader(PATH))) {
