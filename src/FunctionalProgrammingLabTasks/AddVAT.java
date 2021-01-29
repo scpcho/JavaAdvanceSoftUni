@@ -1,5 +1,4 @@
-package FunctionalProgrammingLab;
-
+package FunctionalProgrammingLabTasks;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
@@ -14,7 +13,7 @@ public class AddVAT {
         List<String> line = Arrays.stream(scan.nextLine().split(", ")).collect(Collectors.toList());
 
         UnaryOperator<Double> vatAdder = val -> val * 1.20;
-        Function<Double,Double> vatAddFunc = val -> val * 1.20;
+        Function<Double,Double> vatAddFund = val -> val * 1.20;
 
         System.out.println("Prices with VAT:");
         line.stream()

@@ -1,4 +1,4 @@
-package FunctionalProgrammingLab;
+package FunctionalProgrammingLabTasks;
 
 import java.util.Arrays;
 import java.util.Scanner;

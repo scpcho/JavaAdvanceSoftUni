@@ -1,9 +1,9 @@
-package FunctionalProgrammingLab;
+package FunctionalProgrammingLabTasks;
 import java.util.*;
 import java.util.function.IntPredicate;
 import java.util.stream.IntStream;
 
-public class FindEvenOrOdds {
+public class FindEvensOrOdds {
     public static void main(String[] args) {
         final String even = "even";
         Scanner scan = new Scanner(System.in);
