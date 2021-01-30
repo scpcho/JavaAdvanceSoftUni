@@ -1,6 +1,5 @@
-package FunctionalProgrammingExTasks;
+package FunctionalProgrammingExTask;
 
-import javax.xml.namespace.QName;
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.function.Consumer;

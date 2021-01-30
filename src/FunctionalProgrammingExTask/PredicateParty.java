@@ -1,4 +1,4 @@
-package FunctionalProgrammingExTasks;
+package FunctionalProgrammingExTask;
 
 import java.util.*;
 import java.util.function.Predicate;

@@ -1,4 +1,4 @@
-package DefiningClassesLab;
+package DefiningClassesLabTasks;
 
 public class BankAccount {
     private final static double DEFAULT_INTEREST_RATE = 0.02;

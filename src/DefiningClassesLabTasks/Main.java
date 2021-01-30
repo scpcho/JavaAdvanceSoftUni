@@ -1,4 +1,4 @@
-package DefiningClassesLab;
+package DefiningClassesLabTasks;
 
 import java.util.*;
 
