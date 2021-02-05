@@ -42,7 +42,7 @@ public class Main {
                         double interest1 = idInfo.get(id).getInterest(interest);
                         output = String.format("%.2f", interest1);
                         System.out.println(output);
-                    }else{
+                    } else {
                         System.out.println("Account does not exist");
                     }
                     break;
@@ -70,6 +70,6 @@ public class Main {
         }
         for (CarInfo car : cars) {
             System.out.printf("The car is: %s %s - %d HP.\n", car.getBrand(), car.getModel(), car.getHorsepower());
-        }*/
+        } */
     }
 }
