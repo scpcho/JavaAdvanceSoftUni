@@ -20,53 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4897443a-cefe-47d5-81a0-2e1f8ae9548f" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/CustomList.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/CustomList/CustomBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/CustomList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/CustomListIterator.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/CustomListIterator/CustomBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/CustomListIterator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/CustomListIterator/Sorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/CustomListSorter.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/CustomListSorter/CustomBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/CustomListSorter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/CustomListSorter/Sorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericBox.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericBox/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericBox/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericBoxOfInt.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericCountMethodDouble.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericCountMethodDouble/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericCountMethodDouble/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericCountMethodString.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericCountMethodString/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericCountMethodString/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericSwapMethod.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericSwapMethod/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericSwapMethod/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericSwapMethodToInt.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericSwapMethodToInt/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/GenericSwapMethodToInt/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/Threeuple.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/Threeuple/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/Threeuple/Threeuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/Tuple.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/Tuple/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsEx/Tuple/Tuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsLab/GenericScale/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsLab/GenericScale/Scale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsLab/Jar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsLab/Jar.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsLab/ListUtilities/ListUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsLab/ListUtilities/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsLab/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsLab/genericArrayCreator/ArrayCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsLab/genericArrayCreator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericsLab/genericArrayCreator/genericArrayCreator.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkShopLab/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkShopLab/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkShopLab/SmartArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkShopLab/SmartStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/Book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/Book/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/BookComparator/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/BookComparator/BookComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/BookComparator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/ComparableBook/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/ComparableBook/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/Library/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/Library/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/Library/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +153,7 @@
       <workItem from="1612719440925" duration="2000" />
       <workItem from="1613055657901" duration="3967000" />
       <workItem from="1613126059961" duration="4637000" />
-      <workItem from="1613133174807" duration="1053000" />
+      <workItem from="1613133174807" duration="2002000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1612515383257</created>
@@ -213,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612518121124</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1613134274957</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613134274958</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,9 +235,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613133048111" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1612518131292">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1613134283429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612518131292" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613134283429" />
   </component>
 </project>
