@@ -20,16 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4897443a-cefe-47d5-81a0-2e1f8ae9548f" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/Book/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/Book/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/BookComparator/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/BookComparator/BookComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/BookComparator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/ComparableBook/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/ComparableBook/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/Library/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/Library/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparators/Library/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/Collection/Collection.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/Collection/ListyIterator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/Collection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/Froggy/Froggy.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/Froggy/Lake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/Froggy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/ListyIterator/ListyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/ListyIterator/ListyIterator.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/ListyIterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/StackIterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/StackIterator/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/StackIterator/StackIterator.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/comparingObjects/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/comparingObjects/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsLab/Book/Book.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsLab/BookComparator/BookComparator.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsLab/ComparableBook/ComparableBook.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsLab/Library/Library.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +161,8 @@
       <workItem from="1612719440925" duration="2000" />
       <workItem from="1613055657901" duration="3967000" />
       <workItem from="1613126059961" duration="4637000" />
-      <workItem from="1613133174807" duration="2002000" />
+      <workItem from="1613133174807" duration="2364000" />
+      <workItem from="1613212981962" duration="6029000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1612515383257</created>
@@ -183,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613134274958</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1613137680443</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613137680443</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,10 +227,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="191" y="130" key="#Live_Templates/0.0.1920.1040@0.0.1920.1040" timestamp="1612515753878" />
-    <state x="633" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612516289778">
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1613238886246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="633" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612516289778" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613238886246" />
+    <state x="633" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1613235347432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="633" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613235347432" />
     <state x="184" y="81" key="DiffContextDialog" timestamp="1612515404300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -235,9 +255,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613133048111" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1613134283429">
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1613137682782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613134283429" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613137682782" />
   </component>
 </project>
