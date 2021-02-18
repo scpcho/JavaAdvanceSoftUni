@@ -20,25 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4897443a-cefe-47d5-81a0-2e1f8ae9548f" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/Collection/Collection.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/Collection/ListyIterator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/Collection/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/Froggy/Froggy.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/Froggy/Lake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/Froggy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/ListyIterator/ListyIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/ListyIterator/ListyIterator.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/ListyIterator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/StackIterator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/StackIterator/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/StackIterator/StackIterator.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/comparingObjects/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/comparingObjects/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsLab/Book/Book.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsLab/BookComparator/BookComparator.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsLab/ComparableBook/ComparableBook.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ItaratorsAndComparatorsLab/Library/Library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Openning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bakery2/Bakery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bakery2/Cooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bakery2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bakery2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bakery2/Selling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bakery2/bakery.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvancePastExams/Cooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAdvancePastExams/Selling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/ListyIterator/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +61,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/bakery" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,14 +73,17 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="DefiningClassesExercises.opinionPoll" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\bakery" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GenericsLab.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Cooking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAdvancePastExams.Cooking" />
       <module name="JavaAdvance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GenericsLab.*" />
+          <option name="PATTERN" value="JavaAdvancePastExams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +118,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WorkShopLab.Main" />
+      <option name="MAIN_CLASS_NAME" value="Bakery2.Main" />
       <module name="JavaAdvance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WorkShopLab.*" />
+          <option name="PATTERN" value="Bakery2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAdvancePastExams.Selling" />
+      <module name="JavaAdvance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAdvancePastExams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,10 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Selling" />
+        <item itemvalue="Application.Cooking" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +172,10 @@
       <workItem from="1613055657901" duration="3967000" />
       <workItem from="1613126059961" duration="4637000" />
       <workItem from="1613133174807" duration="2364000" />
-      <workItem from="1613212981962" duration="6029000" />
+      <workItem from="1613212981962" duration="6900000" />
+      <workItem from="1613420940476" duration="3000" />
+      <workItem from="1613642986032" duration="6892000" />
+      <workItem from="1613649985778" duration="354000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1612515383257</created>
@@ -199,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613137680443</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1613239428397</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613239428398</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,29 +255,44 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="633" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613235347432" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613649207788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613649207788" />
     <state x="184" y="81" key="DiffContextDialog" timestamp="1612515404300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="81" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612515404300" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1613133048111">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1613649945263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613133048111" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1613133048111">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613649945263" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1613649945263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613133048111" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1613133048111">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613649945263" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1613649945263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613133048111" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1613133048111">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613649945263" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1613649945263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613133048111" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1613137682782">
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613649945263" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1613239439953">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613137682782" />
+    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613239439953" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaAdvancePastExams/Selling.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
