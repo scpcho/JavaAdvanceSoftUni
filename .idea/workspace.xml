@@ -20,22 +20,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4897443a-cefe-47d5-81a0-2e1f8ae9548f" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/Openning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bakery2/Bakery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bakery2/Cooking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bakery2/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bakery2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bakery2/Selling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bakery2/bakery.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAdvancePastExams/Cooking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAdvancePastExams/Selling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03. Car Dealership_Skeleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03. Car Dealership_Skeleton.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03.-Car-Dealership_Skeleton.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealership.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/Task_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/Task_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dealership.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dealership/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dealership/Dealership.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbstractionLab/StudentSystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbstractionLab/StudentSystem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbstractionLab/StudentSystem/StudentSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbstractionLab/hotelReservation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbstractionLab/pointInRectangle/GeometryFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbstractionLab/pointInRectangle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbstractionLab/pointInRectangle/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbstractionLab/pointInRectangle/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbstractionLab/pointInRectangle/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbstractionLab/rhombusOfStars/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ItaratorsAndComparatorsEx/ListyIterator/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bakery2/Bakery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bakery2/Cooking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bakery2/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bakery2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dealership/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bakery2/Selling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bakery2/bakery.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bakery.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,179 +68,54 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1nsseSfd6iCajpCgTP63mk59rvf" />
+  <component name="ProjectId" id="1ok20KUe7WTLauYGzqVDWOeRfos" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/bakery" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/javaOOP/WorkingWithAbstractionLab/StudentSystem" />
     <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="DefiningClassesExercises.opinionPoll" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dealership" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\bakery" />
+      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\javaOOP\WorkingWithAbstractionLab\StudentSystem" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stoya\Downloads\03. Car Dealership_Skeleton\dealership" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Cooking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAdvancePastExams.Cooking" />
-      <module name="JavaAdvance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaAdvancePastExams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GenericsLab.genericArrayCreator.Main" />
-      <module name="JavaAdvance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GenericsLab.genericArrayCreator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GenericsEx.GenericBox.Main" />
-      <module name="JavaAdvance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GenericsEx.GenericBox.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bakery2.Main" />
-      <module name="JavaAdvance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Bakery2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Selling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaAdvancePastExams.Selling" />
-      <module name="JavaAdvance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaAdvancePastExams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Selling" />
-        <item itemvalue="Application.Cooking" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-      </list>
-    </recent_temporary>
-  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4897443a-cefe-47d5-81a0-2e1f8ae9548f" name="Default Changelist" comment="" />
-      <created>1612190227200</created>
+      <changelist id="4897443a-cefe-47d5-81a0-2e1f8ae9548f" name="Default Changelist" comment="update" />
+      <created>1613816047388</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612190227200</updated>
-      <workItem from="1612190228377" duration="45000" />
-      <workItem from="1612191223440" duration="1239000" />
-      <workItem from="1612288429059" duration="95000" />
-      <workItem from="1612514442137" duration="5498000" />
-      <workItem from="1612539876135" duration="2508000" />
-      <workItem from="1612719440925" duration="2000" />
-      <workItem from="1613055657901" duration="3967000" />
-      <workItem from="1613126059961" duration="4637000" />
-      <workItem from="1613133174807" duration="2364000" />
-      <workItem from="1613212981962" duration="6900000" />
-      <workItem from="1613420940476" duration="3000" />
-      <workItem from="1613642986032" duration="6892000" />
-      <workItem from="1613649985778" duration="354000" />
+      <updated>1613816047388</updated>
+      <workItem from="1613816049569" duration="88000" />
+      <workItem from="1613816362019" duration="1756000" />
+      <workItem from="1613818766328" duration="958000" />
+      <workItem from="1614204511539" duration="3000" />
+      <workItem from="1614510179107" duration="2803000" />
     </task>
-    <task id="LOCAL-00001" summary="update">
-      <created>1612515383257</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1612515383257</updated>
-    </task>
-    <task id="LOCAL-00002" summary="update">
-      <created>1612516493900</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1612516493900</updated>
-    </task>
-    <task id="LOCAL-00003" summary="update">
-      <created>1612518121124</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1612518121124</updated>
-    </task>
-    <task id="LOCAL-00004" summary="update">
-      <created>1613134274957</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1613134274958</updated>
-    </task>
-    <task id="LOCAL-00005" summary="update">
-      <created>1613137680443</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1613137680443</updated>
-    </task>
-    <task id="LOCAL-00006" summary="update">
-      <created>1613239428397</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1613239428398</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,62 +133,42 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="191" y="130" key="#Live_Templates" timestamp="1612515753878">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613816409556">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="191" y="130" key="#Live_Templates/0.0.1920.1040@0.0.1920.1040" timestamp="1612515753878" />
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1613238886246">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613816409556" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613238886246" />
-    <state x="633" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1613235347432">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="633" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613235347432" />
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613649207788">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613649207788" />
-    <state x="184" y="81" key="DiffContextDialog" timestamp="1612515404300">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="81" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612515404300" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1613649945263">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613649945263" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1613649945263">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613649945263" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1613649945263">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613649945263" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1613649945263">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613649945263" />
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2" timestamp="1613239439953">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613239439953" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/JavaAdvancePastExams/Selling.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
   </component>
 </project>
