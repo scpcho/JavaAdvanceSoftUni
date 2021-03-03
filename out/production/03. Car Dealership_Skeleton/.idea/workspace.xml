@@ -20,13 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4897443a-cefe-47d5-81a0-2e1f8ae9548f" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationLab/firstAndReserveTeam/firstAndReserveTeam.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstAndReserveTeam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationLab/firstAndReserveTeam/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstAndReserveTeam/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationLab/firstAndReserveTeam/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstAndReserveTeam/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationLab/firstAndReserveTeam/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/validationData/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/validationData/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/validationData/validationData.zip" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbastractionEx/JediGalaxy2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbastractionEx/JediGalaxy3/Galaxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbastractionEx/JediGalaxy3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbastractionEx/cardRanks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbastractionEx/cardRanks/Ranks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbastractionEx/cardSuit/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbastractionEx/cardSuit/Suits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbastractionEx/cardWithPower/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbastractionEx/cardWithPower/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbastractionEx/cardWithPower/Ranks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbastractionEx/cardWithPower/Suits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbastractionEx/trafficLights/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOOP/WorkingWithAbastractionEx/trafficLights/TrafficState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +67,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/javaOOP/EncapsulationLab/firstAndReserveTeam" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/javaOOP/WorkingWithAbstractionLab/StudentSystem" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -68,36 +75,20 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\stoya\Downloads\03. Car Dealership_Skeleton\dealership" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\validationData" />
-      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\javaOOP\EncapsulationLab" />
-      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\javaOOP\EncapsulationLab\salaryIncrease" />
-      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\javaOOP\WorkingWithAbstractionLab\StudentSystem" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="dealership" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\javaOOP\WorkingWithAbstractionLab\StudentSystem" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stoya\Downloads\03. Car Dealership_Skeleton\dealership" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.javaOOP.WorkingWithAbastractionEx.cardSuit.Main" />
-      <module name="softUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.javaOOP.WorkingWithAbastractionEx.cardSuit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.javaOOP.WorkingWithAbastractionEx.jediGalaxyNoChangesSoftUni.Main" />
-      <module name="softUni" />
+      <module name="03. Car Dealership_Skeleton" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.javaOOP.WorkingWithAbastractionEx.jediGalaxyNoChangesSoftUni.*" />
@@ -108,56 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="softUni" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="softUni" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -178,8 +121,7 @@
       <workItem from="1613818766328" duration="958000" />
       <workItem from="1614204511539" duration="3000" />
       <workItem from="1614510179107" duration="3592000" />
-      <workItem from="1614627076448" duration="2151000" />
-      <workItem from="1614761630647" duration="4134000" />
+      <workItem from="1614627076448" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614523444975</created>
@@ -188,28 +130,7 @@
       <option name="project" value="LOCAL" />
       <updated>1614523444975</updated>
     </task>
-    <task id="LOCAL-00002" summary="update">
-      <created>1614628012695</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1614628012695</updated>
-    </task>
-    <task id="LOCAL-00003" summary="update">
-      <created>1614629663617</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1614629663617</updated>
-    </task>
-    <task id="LOCAL-00004" summary="update">
-      <created>1614766464607</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1614766464607</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,22 +157,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613816409556" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1614629685023">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614629685023" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1614629685023">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614629685023" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1614629685023">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614629685023" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1614629685023">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614629685023" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -268,9 +189,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1614629669423">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1614523468032">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614629669423" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614523468032" />
   </component>
 </project>
