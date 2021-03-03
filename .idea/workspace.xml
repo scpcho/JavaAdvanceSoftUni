@@ -20,21 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4897443a-cefe-47d5-81a0-2e1f8ae9548f" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/animalFarm.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/animalFarm/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/animalFarm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/classBoxDataValidation.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/classBoxDataValidation/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/classBoxDataValidation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/pizzaCalories.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/pizzaCalories/Dough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/pizzaCalories/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/pizzaCalories/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/pizzaCalories/Topping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/shoppingSpree.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/shoppingSpree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/shoppingSpree/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOOP/EncapsulationEx/shoppingSpree/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FootballTeamGenerator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FootballTeamGenerator/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FootballTeamGenerator/Team.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,18 +65,18 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\stoya\Downloads\03. Car Dealership_Skeleton\dealership" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dealership" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\javaOOP\EncapsulationEx" />
       <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\javaOOP\EncapsulationLab\firstAndReserveTeam" />
       <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\javaOOP\EncapsulationLab" />
       <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\validationData" />
       <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\javaOOP\EncapsulationLab\salaryIncrease" />
-      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\javaOOP\WorkingWithAbstractionLab\StudentSystem" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="dealership" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stoya\Downloads\03. Car Dealership_Skeleton\dealership" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
@@ -144,7 +132,7 @@
       <workItem from="1614627076448" duration="2151000" />
       <workItem from="1614761630647" duration="4996000" />
       <workItem from="1614783759202" duration="710000" />
-      <workItem from="1614784558317" duration="1266000" />
+      <workItem from="1614784558317" duration="3357000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614523444975</created>
@@ -181,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614766602762</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1614785843718</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614785843718</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,9 +235,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1614766632824">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1614785846169">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614766632824" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614785846169" />
   </component>
 </project>
