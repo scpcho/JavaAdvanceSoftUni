@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/03. Car Dealership_Skeleton.iml" filepath="$PROJECT_DIR$/03. Car Dealership_Skeleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softUni.iml" filepath="$PROJECT_DIR$/softUni.iml" />
     </modules>
   </component>
 </project>
