@@ -20,33 +20,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4897443a-cefe-47d5-81a0-2e1f8ae9548f" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/HierarchicalInheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HierarchicalInheritance/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HierarchicalInheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HierarchicalInheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomArrayList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomArrayList/RandomArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/HierarchicalInheritance.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/HierarchicalInheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/HierarchicalInheritance/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/HierarchicalInheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/HierarchicalInheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/MultipleInheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/MultipleInheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/MultipleInheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/MultipleInheritance/Puppy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/randomArrayList.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/randomArrayList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/randomArrayList/RandomArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/singleInheritance.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/singleInheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/singleInheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/singleInheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/stackOfStrings.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/stackOfStrings/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceLab/stackOfStrings/StackOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stackOfStrings/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stackOfStrings/StackOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Kitten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Tomcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Person.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Person/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Person/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/ColdBeverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Dessert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/HotBeverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/MainDish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Salmon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Soup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Gorilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Lizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Reptile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/BladeKnight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/DarkKnight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/DarkWizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/Elf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/MuseElf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/SoulMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/Wizard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/CrossMotorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/FamilyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/RaceMotorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/SportCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +110,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/InheritanceLab" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/InheritanceEx" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -162,7 +191,8 @@
       <workItem from="1614784558317" duration="3460000" />
       <workItem from="1615120090463" duration="311000" />
       <workItem from="1615120414281" duration="216000" />
-      <workItem from="1615120640322" duration="598000" />
+      <workItem from="1615120640322" duration="1280000" />
+      <workItem from="1615216694116" duration="2219000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614523444975</created>
@@ -213,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614787999079</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1615121323857</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615121323857</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,9 +309,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1614788002383">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1615121331961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614788002383" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615121331961" />
   </component>
 </project>
