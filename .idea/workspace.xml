@@ -20,63 +20,333 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4897443a-cefe-47d5-81a0-2e1f8ae9548f" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Kitten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Animals/Tomcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Person.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Person/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Person/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/ColdBeverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Dessert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/HotBeverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/MainDish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Salmon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Soup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Starter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Restaurant/Tea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Gorilla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Lizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/Zoo/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/BladeKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/DarkKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/DarkWizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/Elf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/MuseElf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/SoulMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/hero/Wizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/CrossMotorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/FamilyCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/RaceMotorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/SportCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceEx/needForSpeed/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/birthdayCelebrations.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/birthdayCelebrations/Birthable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/birthdayCelebrations/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/birthdayCelebrations/Identifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/birthdayCelebrations/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/birthdayCelebrations/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/birthdayCelebrations/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/birthdayCelebrations/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/collectionHiararchy.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/collectionHiararchy/AddCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/collectionHiararchy/AddRemovable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/collectionHiararchy/AddRemoveCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/collectionHiararchy/Addable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/collectionHiararchy/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/collectionHiararchy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/collectionHiararchy/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/collectionHiararchy/MyListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/defineInterfacePerson.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/defineInterfacePerson/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/defineInterfacePerson/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/foodShortage.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/foodShortage/Birthable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/foodShortage/Buyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/foodShortage/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/foodShortage/Identifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/foodShortage/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/foodShortage/Rebel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/CommandoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/Corp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/EngineerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/LieutenantGeneralImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/Mission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/PrivateImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/Repair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/SoldierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/SpecialisedSoldierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/SpyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/interfaces/Commando.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/interfaces/Engineer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/interfaces/LieutenantGeneral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/interfaces/Private.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/interfaces/Soldier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/interfaces/SpecialisedSoldier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/military/interfaces/Spy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/multipleImplementation.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/multipleImplementation/Birthable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/multipleImplementation/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/multipleImplementation/Identifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/multipleImplementation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/multipleImplementation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/telephony.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/telephony/Browsable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/telephony/Callable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/telephony/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/telephony/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/borderControl/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/borderControl/Identifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/borderControl/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/borderControl/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/carShop/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/carShop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/carShop/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/carShopExtended/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/carShopExtended/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/carShopExtended/CarImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/carShopExtended/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/carShopExtended/Rentable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/carShopExtended/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/carShopExtended/Sellable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/ferrari/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/ferrari/Ferrari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/ferrari/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/sayHello/Bulgarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/sayHello/Chinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/sayHello/European.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/sayHello/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/sayHello/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/sayHelloExtended/BasePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/sayHelloExtended/Bulgarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/sayHelloExtended/Chinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/sayHelloExtended/European.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/sayHelloExtended/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionLab/sayHelloExtended/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HierarchicalInheritance/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HierarchicalInheritance/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HierarchicalInheritance/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HierarchicalInheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/defineInterfacePerson/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/AMinerTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ATM_test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/AcademyGraduation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/AvarageStudentsGrades.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/BalancedParentheses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/BasicQueueOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/BasicStackOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/BrowserHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/BrowserHistoryUpdate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/CitiesByContinentAndCountry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/CompareMetrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/CountSymbols.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/Crossfire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DecimalToBinaryConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/CatLady/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/CatLady/Cymric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/CatLady/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/CatLady/Siamese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/CatLady/StreetExtraordinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/CompanyRoster/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/CompanyRoster/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/CompanyRoster/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/FamilyTree/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/FamilyTree/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/Google/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/Google/Children.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/Google/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/Google/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/Google/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/Google/Parents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/Google/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/Google/Pokemon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/PokemonTrainer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/PokemonTrainer/Pokemon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/PokemonTrainer/Trainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/RawData/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/RawData/Cargo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/RawData/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/RawData/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/RawData/Tire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/carsSalesman/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/carsSalesman/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/carsSalesman/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/speedRacing/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesExercises/opinionPoll/speedRacing/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesLabTasks/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesLabTasks/CarInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesLabTasks/CreateZipArchive2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesLabTasks/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DefiningClassesLabTasks/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/DiagonalDifference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/Exam/Task_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ExamTasks/DragonArmy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ExamTasks/InfixToPostfix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ExamTasks/LegendaryFarming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ExamTasks/LogsAggregator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ExamTasks/ParkingSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ExamTasks/PoisonousPlants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ExamTasks/PopulationCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ExamTasks/RadioactiveMutantVampireBunnies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ExamTasks/SimpleTextEditor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ExamTasks/SrubskoUnleashed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ExamTasks/TheMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ExamTasks/UserLogs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FillTheMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FixEmails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingExTask/AppliedArithmetic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingExTask/CustomComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingExTask/FindTheSmallestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingExTask/KingsOfHonor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingExTask/ListOfPredicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingExTask/PredicateForNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingExTask/PredicateParty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingExTask/ReverseAndExclude.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingExTask/ThePartyReservationFilterModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingExTask/consumerMinFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingExTask/consumerPrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingLabTasks/AddVAT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingLabTasks/CountUppercaseWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingLabTasks/FilterByAge$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingLabTasks/FilterByAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingLabTasks/FindEvensOrOdds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingLabTasks/MyString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingLabTasks/SortEvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/FunctionalProgrammingLabTasks/SumNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/CustomList/CustomBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/CustomList/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/CustomListIterator/CustomBox$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/CustomListIterator/CustomBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/CustomListIterator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/CustomListIterator/Sorter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/CustomListSorter/CustomBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/CustomListSorter/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/CustomListSorter/Sorter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/GenericBox/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/GenericBox/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/GenericCountMethodDouble/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/GenericCountMethodDouble/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/GenericCountMethodString/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/GenericCountMethodString/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/GenericSwapMethod/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/GenericSwapMethod/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/GenericSwapMethodToInt/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/GenericSwapMethodToInt/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/Threeuple/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/Threeuple/Threeuple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/Tuple/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsEx/Tuple/Tuple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsLab/GenericScale/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsLab/GenericScale/Scale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsLab/Jar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsLab/ListUtilities/ListUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsLab/ListUtilities/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsLab/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsLab/genericArrayCreator/ArrayCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/GenericsLab/genericArrayCreator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/HandsOfCards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/HotPotato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/IntersectionOfTwoMatrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/Collection/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/Froggy/Lake$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/Froggy/Lake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/Froggy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/ListyIterator/ListyIterator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/ListyIterator/ListyIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/ListyIterator/ListyIterator1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/ListyIterator/ListyIterator1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/StackIterator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/StackIterator/Stack$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/StackIterator/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/StrategyPattern/ComparatorByAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/StrategyPattern/ComparatorByName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/StrategyPattern/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/StrategyPattern/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/comparingObjects/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsEx/comparingObjects/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsLab/Book/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsLab/Book/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsLab/BookComparator/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsLab/BookComparator/BookComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsLab/BookComparator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsLab/ComparableBook/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsLab/ComparableBook/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsLab/Library/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsLab/Library/Library$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsLab/Library/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ItaratorsAndComparatorsLab/Library/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/JavaAdvancePastExams/Cooking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/MatchingBrackets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/MathPotato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/MatrixOfPalindromes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/MatrixShuffling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/MaximalSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/MaximumElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/MaximumSumOf2X2SubMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ParkingLot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/PeriodicTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/Phonebook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/PositionOf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/PrintDiagonalsOfSquareMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/PrinterQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/RecursiveFibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/ReverseMatrixDiagonals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/Reverse_Numbers_with_a_Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/Robotics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/Selling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/SetsOfElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/SimpleCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/SoftUniParty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/StringMatrixRotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/SumMatrixElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/Task_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/TheHeiganCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/UniqueUsernames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/WorkShopLab/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/WorkShopLab/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/WorkShopLab/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/WorkShopLab/SmartArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/WorkShopLab/SmartStack$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/WorkShopLab/SmartStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/WrongMeasurments.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/bakery/Bakery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/bakery/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/bakery/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/dealership/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/dealership/Dealership.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/dealership/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/JediGalaxy2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/JediGalaxy3/Galaxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/JediGalaxy3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/cardRanks/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/cardRanks/Ranks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/cardSuit/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/cardSuit/Suits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/cardWithPower/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/cardWithPower/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/cardWithPower/Ranks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/cardWithPower/Suits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/greedyTimes/Bag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/greedyTimes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/jediGalaxyNoChangesSoftUni/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/trafficLights/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/trafficLights/TrafficState$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbastractionEx/trafficLights/TrafficState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbstractionLab/StudentSystem/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbstractionLab/StudentSystem/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbstractionLab/StudentSystem/StudentSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbstractionLab/hotelReservation/DiscountType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbstractionLab/hotelReservation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbstractionLab/hotelReservation/PriceCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbstractionLab/hotelReservation/Season.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbstractionLab/pointInRectangle/GeometryFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbstractionLab/pointInRectangle/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbstractionLab/pointInRectangle/Point2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbstractionLab/pointInRectangle/Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbstractionLab/pointInRectangle/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/src/javaOOP/WorkingWithAbstractionLab/rhombusOfStars/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/streamsFilesAndDirectoriesExercises/AllCapitals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/streamsFilesAndDirectoriesExercises/CopyPicture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/streamsFilesAndDirectoriesExercises/CountCharacterTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/streamsFilesAndDirectoriesExercises/CreateZipArchive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/streamsFilesAndDirectoriesExercises/GetFolderSize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/streamsFilesAndDirectoriesExercises/LineNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/streamsFilesAndDirectoriesExercises/MergeTwoFiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/streamsFilesAndDirectoriesExercises/SerializeArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/streamsFilesAndDirectoriesExercises/SerializeCustomObject$Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/streamsFilesAndDirectoriesExercises/SerializeCustomObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/streamsFilesAndDirectoriesExercises/SumBytes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/streamsFilesAndDirectoriesExercises/SumLines.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03. Car Dealership_Skeleton/streamsFilesAndDirectoriesExercises/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomArrayList/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomArrayList/RandomArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stackOfStrings/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterfacesAndAbstractionEx/foodShortage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stackOfStrings/StackOfStrings.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +380,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/InheritanceEx" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/InterfacesAndAbstractionEx" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -122,11 +392,11 @@
       <recent name="dealership" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\InterfacesAndAbstractionEx" />
+      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\InterfacesAndAbstractionLab" />
+      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\sayHelloExtended" />
+      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\InheritanceEx" />
       <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\InheritanceLab" />
-      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni" />
-      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\javaOOP\EncapsulationEx\FootballTeamGenerator" />
-      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\javaOOP\EncapsulationEx" />
-      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\javaOOP\EncapsulationLab\firstAndReserveTeam" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="src.InheritanceLab.singleInheritance" />
@@ -135,13 +405,39 @@
       <recent name="C:\Users\stoya\Downloads\03. Car Dealership_Skeleton\dealership" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.javaOOP.WorkingWithAbastractionEx.cardSuit.Main" />
       <module name="softUni" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.javaOOP.WorkingWithAbastractionEx.cardSuit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="foodShortage.Main" />
+      <module name="softUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="foodShortage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="military.Main" />
+      <module name="softUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="military.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,6 +460,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -192,7 +490,8 @@
       <workItem from="1615120090463" duration="311000" />
       <workItem from="1615120414281" duration="216000" />
       <workItem from="1615120640322" duration="1280000" />
-      <workItem from="1615216694116" duration="2219000" />
+      <workItem from="1615216694116" duration="2244000" />
+      <workItem from="1615402072368" duration="4308000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614523444975</created>
@@ -250,7 +549,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615121323857</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update">
+      <created>1615221060518</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615221060518</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,26 +579,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613816409556">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615402158959">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613816409556" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1614629685023">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615402158959" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1615405460114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614629685023" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1614629685023">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615405460114" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1615405460114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614629685023" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1614629685023">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615405460114" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1615405460114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614629685023" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1614629685023">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615405460114" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1615405460114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614629685023" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615405460114" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -309,9 +615,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1615121331961">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1615221068536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615121331961" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615221068536" />
   </component>
 </project>
