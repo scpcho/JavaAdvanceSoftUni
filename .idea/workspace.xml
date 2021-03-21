@@ -20,27 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4897443a-cefe-47d5-81a0-2e1f8ae9548f" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/ReflectionLab/gettersAndSetters/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReflectionLab/gettersAndSetters/Reflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReflectionLab/highQualityMistakes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReflectionLab/highQualityMistakes/Reflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReflectionLab/reflection/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReflectionLab/reflection/Reflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/Functionality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/appenders/AppenderImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/appenders/ConsoleAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/appenders/FileAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/appenders/SocketAppender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/appenders/interfaces/Appender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/customFiles/LogFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/customFiles/interfaces/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/enums/ReportLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/layouts/SimpleLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/layouts/XmlLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/layouts/interfaces/Layout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/loggers/MessageLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SolidEx/loggers/interfaces/Logger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +63,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="src.SolidEx.layouts.interfaces" />
       <recent name="dealership" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -204,7 +184,7 @@
       <workItem from="1615627266674" duration="1270000" />
       <workItem from="1615644538608" duration="1973000" />
       <workItem from="1616003078195" duration="1328000" />
-      <workItem from="1616309840755" duration="2492000" />
+      <workItem from="1616309840755" duration="4474000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614523444975</created>
@@ -283,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616310035429</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <created>1616320959041</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616320959041</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,22 +297,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616003399133" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1615408815716">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1616321426278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615408815716" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1615408815716">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616321426278" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1616321426277">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615408815716" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1615408815716">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616321426277" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1616321426277">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615408815716" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1615408815716">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616321426277" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1616321426277">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615408815716" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616321426277" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -342,9 +329,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616310058612">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616320965539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616310058612" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616320965539" />
   </component>
 </project>

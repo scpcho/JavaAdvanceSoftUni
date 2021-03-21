@@ -40,6 +40,6 @@ public class FileAppender extends AppenderImpl {
 
     @Override
     public String toString() {
-        return super.toString() + ", File size: "+ this.file.getSize();
+        return super.toString() + ", File size: " + this.file.getSize();
     }
 }
