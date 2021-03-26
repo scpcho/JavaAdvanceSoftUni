@@ -20,6 +20,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4897443a-cefe-47d5-81a0-2e1f8ae9548f" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsAndErrorHandling/customException/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsAndErrorHandling/enterNumbers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsAndErrorHandling/fixing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsAndErrorHandling/squareRoot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsAndErrorHandling/validPerson/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsAndErrorHandling/validPerson/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/core/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/core/factories/UnitFactoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/data/UnitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/interfaces/Attacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/interfaces/CommandInterpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/interfaces/Destroyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/interfaces/Executable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/interfaces/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/interfaces/Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/interfaces/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/interfaces/UnitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/models/units/AbstractUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/models/units/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/models/units/Gunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/models/units/Horseman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/models/units/Pikeman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsNewFactory/models/units/Swordsman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/core/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/core/commands/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/core/commands/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/core/commands/Fight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/core/commands/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/core/commands/Retire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/core/factories/UnitFactoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/data/UnitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/interfaces/Attacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/interfaces/CommandInterpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/interfaces/Destroyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/interfaces/Executable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/interfaces/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/interfaces/Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/interfaces/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/interfaces/UnitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/models/units/AbstractUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/models/units/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/models/units/Gunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/models/units/Horseman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/models/units/Pikeman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsReturn/barracksWars/models/units/Swordsman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/core/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/core/commands/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/core/commands/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/core/commands/Fight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/core/commands/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/core/commands/Retire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/core/factories/UnitFactoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/data/UnitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/interfaces/Attacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/interfaces/CommandInterpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/interfaces/Destroyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/interfaces/Executable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/interfaces/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/interfaces/Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/interfaces/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/interfaces/UnitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/models/units/AbstractUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/models/units/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/models/units/Gunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/models/units/Horseman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/models/units/Pikeman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/barracksWarsTheCommands/barracksWars/models/units/Swordsman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/blackBoxInteger/BlackBoxInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/blackBoxInteger/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/harvestingFields/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReflectionEx/harvestingFields/RichSoilLand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +128,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ReflectionLab" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ReflectionEx" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -62,38 +136,25 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="src.SolidEx.layouts.interfaces" />
-      <recent name="dealership" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stoya\Downloads\03. Car Dealership_Skeleton\dealership" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\ReflectionEx" />
       <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\ReflectionLab" />
       <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src" />
       <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\PolymorphismEx" />
       <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\PolymorpismLab" />
-      <recent name="C:\Users\scp\IdeaProjects\JavaAdvanceSoftUni\src\InterfacesAndAbstractionEx" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="src.InheritanceLab.singleInheritance" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\stoya\Downloads\03. Car Dealership_Skeleton\dealership" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="src.SolidEx.layouts.interfaces" />
+      <recent name="dealership" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.javaOOP.WorkingWithAbastractionEx.cardSuit.Main" />
-      <module name="softUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.javaOOP.WorkingWithAbastractionEx.cardSuit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="foodShortage.Main" />
       <module name="softUni" />
@@ -133,12 +194,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.javaOOP.WorkingWithAbastractionEx.jediGalaxyNoChangesSoftUni.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.ExceptionsAndErrorHandling.enterNumbers.Main" />
       <module name="softUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.javaOOP.WorkingWithAbastractionEx.jediGalaxyNoChangesSoftUni.*" />
+          <option name="PATTERN" value="src.ExceptionsAndErrorHandling.enterNumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.ExceptionsAndErrorHandling.squareRoot.Main" />
+      <module name="softUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.ExceptionsAndErrorHandling.squareRoot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +258,9 @@
       <workItem from="1615627266674" duration="1270000" />
       <workItem from="1615644538608" duration="1973000" />
       <workItem from="1616003078195" duration="1328000" />
-      <workItem from="1616309840755" duration="4474000" />
+      <workItem from="1616309840755" duration="4967000" />
+      <workItem from="1616435379712" duration="1359000" />
+      <workItem from="1616760760260" duration="3067000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614523444975</created>
@@ -270,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616320959041</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update">
+      <created>1616325386494</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1616325386494</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,22 +380,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616003399133" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1616321426278">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1616768112888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616321426278" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1616321426277">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616768112888" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1616768112888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616321426277" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1616321426277">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616768112888" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1616768112888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616321426277" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1616321426277">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616768112888" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1616768112888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616321426277" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616768112888" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1613816353579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -329,9 +412,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613816353579" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616320965539">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616325388973">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616320965539" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1616325388973" />
   </component>
 </project>
